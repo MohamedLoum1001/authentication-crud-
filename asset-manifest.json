@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/authentication-crud-/static/css/main.fb6a6502.css",
+    "main.js": "/authentication-crud-/static/js/main.cf7a1afe.js",
+    "index.html": "/authentication-crud-/index.html",
+    "main.fb6a6502.css.map": "/authentication-crud-/static/css/main.fb6a6502.css.map",
+    "main.cf7a1afe.js.map": "/authentication-crud-/static/js/main.cf7a1afe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb6a6502.css",
+    "static/js/main.cf7a1afe.js"
+  ]
+}
